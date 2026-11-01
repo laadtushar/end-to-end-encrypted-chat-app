@@ -34,7 +34,7 @@
     "gulp-shell": "^0.8.0",
     "openai": "^4.29.1",
     "vite": "^4.0.0",
-    "vite-plugin-mkcert": "^1.17.4"
+    "vite-plugin-mkcert": "^1.17.12"
   },
   "directories": {
     "assets:": "./steganography.min.js"
